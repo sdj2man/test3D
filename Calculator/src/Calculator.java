@@ -6,7 +6,7 @@ public class Calculator {
 		
 		result=num1-num2;
 		
-		return result;//55
+		return result;//555
 		
 	}
 	
